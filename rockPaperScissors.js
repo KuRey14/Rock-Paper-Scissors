@@ -4,7 +4,7 @@ const getUserChoice = userInput => {
   if (userInput === 'rock' || 
       userInput === 'paper' ||
       userInput === 'scissors' ||
-      userInput === 'bomb') {
+      userInput === 'cake') {
         return userInput;
       } else {
         console.log('Error! (1st if)');
