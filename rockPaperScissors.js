@@ -58,4 +58,4 @@ function playGame (value) {
   console.log(determineWinner(userChoice, computerChoice));
 }
 
-playGame('rock') // Enter 'rock', 'paper' or 'scissord'?
+playGame('rock') // Enter 'rock', 'paper' or 'scissors'?
